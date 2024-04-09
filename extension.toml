@@ -1,0 +1,11 @@
+id = "embedded-template"
+name = "Embeded Template"
+version = "0.0.1"
+schema_version = 1
+authors = ["Dang Huynh"]
+description = "Embedded template language support for Zed"
+repository = "https://github.com/dangh/zed-embedded-template"
+
+[grammars.embedded_template]
+repository = "https://github.com/dangh/tree-sitter-embedded-template"
+commit = "8211177ee5c566d2cdf5e9c85796030db0b27132"
