@@ -1,7 +1,7 @@
-((content) @injection.content
- (#set! injection.language "html")
- (#set! injection.combined))
+((content) @content
+ (#set! "language" "html")
+ (#set! "combined"))
 
-((code) @injection.content
- (#set! injection.language "javascript")
- (#set! injection.combined))
+((code) @content
+ (#set! "language" "javascript")
+ (#set! "combined"))
