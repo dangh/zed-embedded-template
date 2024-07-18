@@ -8,4 +8,4 @@ repository = "https://github.com/dangh/zed-embedded-template"
 
 [grammars.embedded_template]
 repository = "https://github.com/dangh/tree-sitter-embedded-template"
-commit = "8211177ee5c566d2cdf5e9c85796030db0b27132"
+commit = "aa0fa1e3bef95c192b2c7c4f527ed41a1dd8363b"
